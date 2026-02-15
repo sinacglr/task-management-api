@@ -2,9 +2,9 @@
 Node.js ve Express kullanılarak geliştirilmiş, RESTful mimarisine uygun, Dockerize edilmiş ve testleri yazılmış bir Görev Yönetimi API servisi. 
 
 ## Kullanılan Teknolojiler
-**Node.js**
-**Jest & Supertest**
-**Docker**
+**Node.js** <br />
+**Jest & Supertest** <br />
+**Docker** <br />
 
 ## Geliştirme Süreci
 Proje gereksinimlerini analiz ettikten sonra, kodun sürdürülebilir olmasını hedefledim. Bu nedenle tüm kodları tek bir dosya içine yazmak yerine, OOP prensiplerine uygun katmanlı bir yapı (controller, service, routes) kurdum.
